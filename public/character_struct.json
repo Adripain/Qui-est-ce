@@ -1,0 +1,243 @@
+{
+    "characters": [
+        {
+            "name" : "alain",
+            "hair_colour" : "chatin",
+            "hair_type" : "bald",
+            "beard" : "bouc",
+            "glasses" : false,
+            "gender" : "male",
+            "chapeau" : false,
+            "yeux": "marron"
+        },
+        {
+            "name" : "ali",
+            "hair_colour" : "noir",
+            "hair_type" : "normal",
+            "beard" : "aucune",
+            "glasses" : true,
+            "gender" : "male",
+            "chapeau" : false,
+            "yeux": "marron"
+        },
+        {
+            "name" : "amir",
+            "hair_colour" : "blanc",
+            "hair_type" : "bald",
+            "beard" : "aucune",
+            "glasses" : false,
+            "gender" : "male",
+            "chapeau" : false,
+            "yeux": "bleu"
+        },
+        {
+            "name" : "christine",
+            "hair_colour" : "blanc",
+            "hair_type" : "long",
+            "beard" : "aucune",
+            "glasses" : false,
+            "gender" : "female",
+            "chapeau" : false,
+            "yeux": "bleu"
+        },
+        {
+            "name" : "diego",
+            "hair_colour" : "blanc",
+            "hair_type" : "normal",
+            "beard" : "barbe",
+            "glasses" : false,
+            "gender" : "male",
+            "chapeau" : false,
+            "yeux": "bleu"
+        },
+        {
+            "name" : "hugo",
+            "hair_colour" : "roux",
+            "hair_type" : "bald",
+            "beard" : "moustache",
+            "glasses" : false,
+            "gender" : "male",
+            "chapeau" : false,
+            "yeux": "bleu"
+        },
+        {
+            "name" : "ines",
+            "hair_colour" : "blond",
+            "hair_type" : "long",
+            "beard" : "aucune",
+            "glasses" : false,
+            "gender" : "female",
+            "chapeau" : true,
+            "yeux": "marron"
+        },
+        {
+            "name" : "jacques",
+            "hair_colour" : "blanc",
+            "hair_type" : "normal",
+            "beard" : "moustache",
+            "glasses" : false,
+            "gender" : "male",
+            "chapeau" : false,
+            "yeux": "marron"
+        },
+        {
+            "name" : "julien",
+            "gender" : "female",
+            "hair_colour" : "noir",
+            "hair_type" : "normal",
+            "beard" : "aucune",
+            "glasses" : false,
+            "chapeau" : false,
+            "yeux": "marron"
+        },
+        {
+            "name" : "laetitia",
+            "hair_colour" : "roux",
+            "hair_type" : "long",
+            "beard" : "aucune",
+            "glasses" : true,
+            "chapeau" : true,
+            "yeux": "marron"
+        },
+        {
+            "name" : "leo",
+            "hair_colour" : "chatin",
+            "hair_type" : "bald",
+            "beard" : "aucune",
+            "glasses" : true,
+            "gender" : "male",
+            "chapeau" : false,
+            "yeux": "bleu"
+        },
+        {
+            "name" : "liam",
+            "hair_colour" : "chatin",
+            "hair_type" : "inconnu",
+            "beard" : "barbe",
+            "glasses" : false,
+            "gender" : "male",
+            "chapeau" : true,
+            "yeux": "bleu"
+        },
+        {
+            "name" : "lilou",
+            "hair_colour" : "blond",
+            "hair_type" : "long",
+            "beard" : "aucune",
+            "glasses" : false,
+            "gender" : "male",
+            "chapeau" : false,
+            "yeux": "marron"
+        },
+        {
+            "name" : "mathieu",
+            "hair_colour" : "chatin",
+            "hair_type" : "inconnu",
+            "beard" : "aucune",
+            "glasses" : true,
+            "gender" : "male",
+            "chapeau" : true,
+            "yeux": "bleu"
+        },
+        {
+            "name" : "mathis",
+            "hair_colour" : "blond",
+            "hair_type" : "normal",
+            "beard" : "moustache",
+            "glasses" : false,
+            "gender" : "male",
+            "chapeau" : false,
+            "yeux": "bleu"
+        },
+        {
+            "name" : "nathan",
+            "hair_colour" : "roux",
+            "hair_type" : "normal",
+            "beard" : "aucune",
+            "glasses" : false,
+            "gender" : "male",
+            "chapeau" : false,
+            "yeux": "bleu"
+        },
+        {
+            "name" : "noemie",
+            "hair_colour" : "chatin",
+            "hair_type" : "long",
+            "beard" : "aucune",
+            "glasses" : false,
+            "gender" : "female",
+            "chapeau" : false,
+            "yeux": "marron"
+        },
+        {
+            "name" : "pauline",
+            "hair_colour" : "chatin",
+            "hair_type" : "long",
+            "beard" : "aucune",
+            "glasses" : true,
+            "gender" : "female",
+            "chapeau" : false,
+            "yeux": "bleu"
+        },
+        {
+            "name" : "sebastien",
+            "hair_colour" : "blond",
+            "hair_type" : "inconnu",
+            "beard" : "aucune",
+            "glasses" : false,
+            "gender" : "male",
+            "chapeau" : true,
+            "yeux": "bleu"
+        },
+        {
+            "name" : "sophie",
+            "hair_colour" : "roux",
+            "hair_type" : "long",
+            "beard" : "aucune",
+            "glasses" : true,
+            "gender" : "female",
+            "chapeau" : false,
+            "yeux": "bleu"
+        },
+        {
+            "name" : "stephane",
+            "hair_colour" : "blond",
+            "hair_type" : "bald",
+            "beard" : "barbe",
+            "glasses" : false,
+            "gender" : "male",
+            "chapeau" : false,
+            "yeux": "marron"
+        },
+        {
+            "name" : "thomas",
+            "hair_colour" : "noir",
+            "hair_type" : "normal",
+            "beard" : "moustache",
+            "glasses" : false,
+            "gender" : "male",
+            "chapeau" : false,
+            "yeux": "bleu"
+        },
+        {
+            "name" : "banana",
+            "hair_colour" : "banana",
+            "hair_type" : "banana",
+            "beard" : "banana",
+            "glasses" : "banana",
+            "gender" : "banana",
+            "chapeau" : "banana",
+            "yeux": "inconnu"
+        },
+        {   
+            "name" : "elliot",
+            "hair_colour" : "noir",
+            "hair_type" : "normal",
+            "beard" : "aucune",
+            "glasses" : false,
+            "gender" : "male",
+            "chapeau" : false,
+            "yeux": "marron"
+        }
+    ]
+}
